@@ -2,6 +2,8 @@
 
 This is an extension for [Visual Studio Code] that adds comments for escaping and unescaping JSON strings.
 
+Marketplace: [https://marketplace.visualstudio.com/items?itemName=joshuapoehls.json-escaper](https://marketplace.visualstudio.com/items?itemName=joshuapoehls.json-escaper)
+
 ## Change Log
 
 All notable changes to this extension are documented below.
@@ -25,3 +27,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Thanks
 
 The initial implementation (at least) is basically a fork of [https://github.com/drphrozen/vscode-escaping-characters](https://github.com/drphrozen/vscode-escaping-characters). Many thanks to that project for making my job easier.
+
+[Visual Studio Code]: https://code.visualstudio.com
