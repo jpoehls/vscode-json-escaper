@@ -2,7 +2,7 @@
     "name": "json-escaper",
     "displayName": "JSON Escaper",
     "description": "Escapes or unescapes a JSON string.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "joshuapoehls",
     "license": "MIT",
     "engines": {
