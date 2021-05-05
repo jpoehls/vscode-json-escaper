@@ -10,6 +10,10 @@ All notable changes to this extension are documented below.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### 1.1.1
+- Added icon.
+- Updated devDependencies and minimum VS Code version to 1.34.0.
+
 ### 1.1.0
 - Added support for hexadecimal unicode sequences. E.g., `\u0022`.
 - Fixed bugs that would cause incorrect output when unescaping strings that contained escaped backslashes. E.g., `\\t`.
